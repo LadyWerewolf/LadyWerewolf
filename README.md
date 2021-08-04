@@ -1,7 +1,6 @@
-<ul>
-  <li>👋 Hi, I’m @LadyWerewolf</li>
-  <li>🌱 I’m currently learning Front End web dev</li>
-  <li>📫 lady.werewolf@gmail.com</li>
+👋 Hi, I’m @LadyWerewolf<br>
+🌱 I’m currently learning Front End web dev<br>
+📫 lady.werewolf@gmail.com
 
 <!---
 LadyWerewolf/LadyWerewolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
